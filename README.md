@@ -1,5 +1,9 @@
 # SIREn: Efficient semi-structured Information Retrieval for Lucene/Solr
 
+## Project Status
+
+The SIREn 0.2 project is not maintained anymore. We are concentrating our effort on SIREn 1.0. If you would like to evaluate SIREn 1.0, you can contact me at renaud at sindicetech dot com.
+
 ## Introduction
 
 Efficient, large scale handling of semi-structured data (including RDF) is
